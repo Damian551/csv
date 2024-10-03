@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "conLab3",
+            "database": "${workspaceFolder:csv}/lab3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
